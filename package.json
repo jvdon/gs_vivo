@@ -1,0 +1,15 @@
+{
+  "name": "gs_vivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Zeyk",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
